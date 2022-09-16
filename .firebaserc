@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "co2fzs"
+  },
+  "targets": {
+    "co2fzs": {
+      "hosting": {
+        "co2fzs-admin": [
+          "co2fzs-admin"
+        ],
+        "co2fzs": [
+          "co2fzs"
+        ]
+      }
+    }
+  }
+}
